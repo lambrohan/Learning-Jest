@@ -1,0 +1,12 @@
+{
+	"name": "boot",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"jest": "^24.9.0"
+	}
+}
